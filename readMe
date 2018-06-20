@@ -1,0 +1,12 @@
+In order to run (train and validate) the model you should run on the following commands on terminal
+>Model built using Basic RNN cell
+$python pain.py BasicRNN 
+
+>Model built using Basic LSTM cell
+$python pain.py LSTM 
+
+After you run one of the previous commands,the model starts training for 40 epochs. The ATIS fold which is currently used is the fold0.
+
+File results.txt, contains the results we obtained during the experiments. 
+For each ATIS fold, we compared the 3 models. (These two that we iplemented, plus the Elman Forward model that was given to us) 
+ 

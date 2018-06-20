@@ -1,0 +1,17 @@
+For Folder:0 using BasicRNN cell, BEST RESULT: epoch 36, valid score 97.169, best test F1 score 97.575
+For Folder:1 using BasicRNN cell, BEST RESULT: epoch 35, valid score 97.250, best test F1 score 97.679
+For Folder:2 using BasicRNN cell, BEST RESULT: epoch 38, valid score 97.195, best test F1 score 97.619
+For Folder:3 using BasicRNN cell, BEST RESULT: epoch 34, valid score 97.148, best test F1 score 97.692
+For Folder:4 using BasicRNN cell, BEST RESULT: epoch 31, valid score 97.118, best test F1 score 97.603
+
+For Folder:0 using LSTM cell, BEST RESULT: epoch 30, valid score 98.090, best test F1 score 97.468
+For Folder:1 using LSTM cell, BEST RESULT: epoch 31, valid score 98.228, best test F1 score 97.552
+For Folder:2 using LSTM cell, BEST RESULT: epoch 37, valid score 98.031, best test F1 score 97.485
+For Folder:3 using LSTM cell, BEST RESULT: epoch 38, valid score 97.905, best test F1 score 97.268
+For Folder:4 using LSTM cell, BEST RESULT: epoch 38, valid score 97.933, best test F1 score 97.410
+
+For Folder:0 using the model elman-forward, BEST RESULT: epoch 39, valid F1 96.95, best test F1 score 94.45
+For Folder:1 using the model elman-forward, BEST RESULT: epoch 39, valid F1 96.67, best test F1 score 94.06
+For Folder:2 using the model elman-forward, BEST RESULT: epoch 39, valid F1 96.64, best test F1 score 93.74
+For Folder:3 using the model elman-forward, BEST RESULT: epoch 39, valid F1 97.57, best test F1 score 94.68
+For Folder:4 using the model elman-forward, BEST RESULT: epoch 39, valid F1 97.24, best test F1 score 94.11
